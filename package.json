@@ -5,8 +5,8 @@
   "main": "index.html",
   "scripts": {
     "dev": "npx http-server -p 8080",
-    "build": "echo 'Build complete'",
-    "test": "echo 'Running tests...'"
+    "build": "echo 'Build complete - Static site ready'",
+    "start": "npx http-server -p 8080"
   },
   "keywords": [
     "跨境电商",
