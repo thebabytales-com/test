@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# PickAI - AI 智能选品工具
+
+## 项目简介
+PickAI 帮助跨境电商卖家快速找到高利润产品。
+
+## 核心功能
+- AI 驱动的选品分析
+- 利润率计算
+- 市场趋势预测
+
+## 技术栈
+- Frontend: React + Tailwind CSS
+- Backend: Node.js + Express
+- Database: MongoDB
+- AI: OpenAI API
+
+## 快速开始
+\`\`\`bash
+npm install
+npm run dev
+\`\`\`
+
+## 团队
+- CTO: 技术实现
+- PM: 产品定义
+- Architect: 架构设计
+- Tester: 质量保证
+>>>>>>> a0593b5c948c78637b9980601b1df21ef66188b4
