@@ -1,0 +1,23 @@
+{
+  "name": "pickai",
+  "version": "0.1.0",
+  "description": "AI 智能选品工具 - 帮助跨境电商卖家快速找到高利润产品",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 8080",
+    "build": "echo 'Build complete'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": [
+    "跨境电商",
+    "选品工具",
+    "AI",
+    "电商分析"
+  ],
+  "author": "xiajiucai11",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebabytales-com/test.git"
+  }
+}
